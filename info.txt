@@ -1,2 +1,3 @@
 window xp os.
 company Micosoft.
+locate at USA.
